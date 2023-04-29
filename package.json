@@ -1,0 +1,42 @@
+{
+	"name": "superonedark-theme",
+	"displayName": "SuperOneDark Theme",
+	"description": "SuperOneDark Theme",
+	"publisher": "kenethriera",
+	"version": "1.0.0",
+	"icon": "images/logo.png",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Vscode",
+		"Theme",
+		"OneDark"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kenethrrizzo/superonedark-theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "SuperOneDark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/superonedark_theme-color_theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "e5ff5a8a-9b20-4fdc-95db-f14d857ac73b",
+		"publisherId": "bcbfda73-19b7-48b1-beea-f2b075a73ad3",
+		"publisherDisplayName": "Keneth Riera",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1682008263083,
+		"preRelease": false
+	}
+}
